@@ -1,0 +1,6 @@
+body{
+    background: -webkit-linear-gradient(right, #0a5b8a, #1a9484,#03ca99cb, #59ad14);
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+}
